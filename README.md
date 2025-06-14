@@ -1,2 +1,3 @@
 # ctrl-z
-Sugar Sathi- That helps you to maintain the glucose level and according to your glucose level it suggests the diet plain thought the day and also reminds of your medications, glucose test. this app suggest better way to maintain you sugar level  
+"Meet Sugar Sathi – your personal companion for managing diabetes with ease! It keeps track of your glucose levels and gives you personalized diet plans every day. Need a reminder to take your meds or check your sugar? Sugar Sathi’s got your back. It also suggests age-appropriate workouts and calming meditation exercises to help you beat stress and stay on top of your health – all in one app!"
+
